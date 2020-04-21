@@ -1,5 +1,5 @@
-# Malik's Instagram  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/explore) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_twitter_clone?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_wallet_app) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_twitter_clone?style=social) 
-![Dart CI](https://github.com/TheAlphamerc/flutter_twitter_clone/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter_twitter_clone) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter_twitter_clone) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_wallet_app)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter_twitter_clone) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AbdulMalikDev/FlutterShare) 
+# Malik's Instagram  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/explore) [![GitHub stars](https://img.shields.io/github/stars/AbdulMalikDev/FlutterShare?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_wallet_app) ![GitHub forks](https://img.shields.io/github/forks/AbdulMalikDev/FlutterShare?style=social) 
+![Dart CI](https://github.com/TheAlphamerc/flutter_twitter_clone/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AbdulMalikDev/FlutterShare) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbdulMalikDev/FlutterShare) ![GitHub last commit](https://img.shields.io/github/last-commit/AbdulMalikDev/FlutterShare)  ![GitHub issues](https://img.shields.io/github/issues-raw/AbdulMalikDev/FlutterShare) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AbdulMalikDev/FlutterShare) 
 
 A working Instagram clone written in Flutter using Firebase auth,Firestore and storage.
 <br />
@@ -19,15 +19,10 @@ Show some ❤️ and ⭐ the repo!
 <br />
 <br />
 
-Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
+Login Page               |  Timeline               | Activity Feed               |  Upload Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_4.jpg?raw=true)|
+![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/1.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/2.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/3.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/4.jpg?raw=true)|
 
-Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page
+Search          |  Profile       |   Home Page               |  Home Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_6.jpg?raw=true)|
-
-Compose Tweet Page                  | Reply To Tweet       |   Reply to Tweet      |     Compose Retweet with comment
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_4.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_3.jpg?raw=true)|
-
+![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/5.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/6.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/8.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterShare/blob/master/9.jpg?raw=true)|
