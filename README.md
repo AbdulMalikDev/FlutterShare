@@ -1,4 +1,5 @@
 # Malik's Instagram  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/explore) [![GitHub stars](https://img.shields.io/github/stars/AbdulMalikDev/FlutterShare?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_wallet_app) ![GitHub forks](https://img.shields.io/github/forks/AbdulMalikDev/FlutterShare?style=social) 
+<br />
 ![Dart CI](https://github.com/TheAlphamerc/flutter_twitter_clone/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AbdulMalikDev/FlutterShare) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbdulMalikDev/FlutterShare) ![GitHub last commit](https://img.shields.io/github/last-commit/AbdulMalikDev/FlutterShare)  ![GitHub issues](https://img.shields.io/github/issues-raw/AbdulMalikDev/FlutterShare) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AbdulMalikDev/FlutterShare) 
 
 A working Instagram clone written in Flutter using Firebase auth,Firestore and storage.
