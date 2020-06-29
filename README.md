@@ -10,8 +10,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AbdulMalikDev/FlutterShare) 
 
 A working Instagram clone written in Flutter using Firebase auth,Firestore and storage.
-<br />
-<br />
 
 Built with Flutter 💙
 
